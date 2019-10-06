@@ -4,7 +4,7 @@ import {
 
 console.log(ajax)
 
-// example 
+// example
 export const homeRequest = () => {
   return ajax.get('...')
 }
